@@ -179,6 +179,8 @@ button:active {
 ```
 
 ## OUTPUT
+<img width="1903" height="1012" alt="Screenshot 2025-10-07 114120" src="https://github.com/user-attachments/assets/02a9cec2-11fd-4756-b3cc-f769025275cd" />
+
 
 
 
